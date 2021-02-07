@@ -1,0 +1,7 @@
+F:\C#\labnew\labnew\bin\Debug\labnew.exe.config
+F:\C#\labnew\labnew\bin\Debug\labnew.exe
+F:\C#\labnew\labnew\bin\Debug\labnew.pdb
+F:\C#\labnew\labnew\obj\Debug\labnew.csprojAssemblyReference.cache
+F:\C#\labnew\labnew\obj\Debug\labnew.csproj.CoreCompileInputs.cache
+F:\C#\labnew\labnew\obj\Debug\labnew.exe
+F:\C#\labnew\labnew\obj\Debug\labnew.pdb
