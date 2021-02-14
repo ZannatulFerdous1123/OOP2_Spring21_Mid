@@ -1,0 +1,7 @@
+F:\C#\ArrayDuplicate\ArrayDuplicate\obj\Debug\ArrayDuplicate.csprojAssemblyReference.cache
+F:\C#\ArrayDuplicate\ArrayDuplicate\obj\Debug\ArrayDuplicate.csproj.CoreCompileInputs.cache
+F:\C#\ArrayDuplicate\ArrayDuplicate\bin\Debug\ArrayDuplicate.exe.config
+F:\C#\ArrayDuplicate\ArrayDuplicate\bin\Debug\ArrayDuplicate.exe
+F:\C#\ArrayDuplicate\ArrayDuplicate\bin\Debug\ArrayDuplicate.pdb
+F:\C#\ArrayDuplicate\ArrayDuplicate\obj\Debug\ArrayDuplicate.exe
+F:\C#\ArrayDuplicate\ArrayDuplicate\obj\Debug\ArrayDuplicate.pdb
