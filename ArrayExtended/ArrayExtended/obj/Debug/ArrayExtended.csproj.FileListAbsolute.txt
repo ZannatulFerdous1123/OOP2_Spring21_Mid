@@ -1,0 +1,7 @@
+F:\C#\ArrayExtended\ArrayExtended\obj\Debug\ArrayExtended.csproj.CoreCompileInputs.cache
+F:\C#\ArrayExtended\ArrayExtended\bin\Debug\ArrayExtended.exe.config
+F:\C#\ArrayExtended\ArrayExtended\bin\Debug\ArrayExtended.exe
+F:\C#\ArrayExtended\ArrayExtended\bin\Debug\ArrayExtended.pdb
+F:\C#\ArrayExtended\ArrayExtended\obj\Debug\ArrayExtended.exe
+F:\C#\ArrayExtended\ArrayExtended\obj\Debug\ArrayExtended.pdb
+F:\C#\ArrayExtended\ArrayExtended\obj\Debug\ArrayExtended.csprojAssemblyReference.cache

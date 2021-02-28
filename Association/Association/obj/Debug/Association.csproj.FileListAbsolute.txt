@@ -1,0 +1,7 @@
+F:\C#\Association\Association\obj\Debug\Association.csprojAssemblyReference.cache
+F:\C#\Association\Association\obj\Debug\Association.csproj.CoreCompileInputs.cache
+F:\C#\Association\Association\bin\Debug\Association.exe.config
+F:\C#\Association\Association\bin\Debug\Association.exe
+F:\C#\Association\Association\bin\Debug\Association.pdb
+F:\C#\Association\Association\obj\Debug\Association.exe
+F:\C#\Association\Association\obj\Debug\Association.pdb
