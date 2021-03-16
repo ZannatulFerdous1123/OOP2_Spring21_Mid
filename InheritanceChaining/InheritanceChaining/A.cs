@@ -8,12 +8,12 @@ namespace InheritanceChaining
 {
     class A:B
     {
-        public A():base(10)
+        public A():base(4)
         {
             Console.WriteLine("Default Constructor called : A");
         }
 
-        public A(int num):this()
+        public A(int num)
         {
             Console.WriteLine("Constructor with 1 parameter : A ");
         }

@@ -20,14 +20,15 @@ namespace ArrayExtended
         static void PrintTwoD(int[,] arr)
         {
             foreach(int a in arr)
-            { 
-             Console.WriteLine(a);
+            {
+               
+                Console.WriteLine(a);
             }
 
             int r = arr.GetLength(0);
             int c = arr.GetLength(1);
-            Console.WriteLine(r);
-            Console.WriteLine(c);
+            Console.WriteLine("row: {0}",r);
+            Console.WriteLine("column: {0}",c);
             /*for (int i = 0; i < r; i++)
             {
                 for (int j = 0; j < c; j++)
@@ -59,8 +60,9 @@ namespace ArrayExtended
             int[] arr = { 1, 2, 3, 4, 5 };
             int[,] arrTwoD = { { 1, 2, 3 }, { 4, 5, 6 } };
             int[][] jagged = new int[][] { new int[] { 1, 2, 3, 4 }, new int[] { 10, 11, 12 }, new int[] { 7, 8, 9 } };
-            PrintJaggedArray(jagged);
-            //PrintTwoD(arrTwoD);
+            //PrintJaggedArray(jagged);
+            Console.WriteLine("array elements");
+            PrintTwoD(arrTwoD);
             //PrintArray(arr);
             //Console.ReadKey();
         }

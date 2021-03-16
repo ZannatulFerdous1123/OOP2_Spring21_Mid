@@ -4,3 +4,4 @@ F:\C#\InheritanceChaining\InheritanceChaining\bin\Debug\InheritanceChaining.exe
 F:\C#\InheritanceChaining\InheritanceChaining\bin\Debug\InheritanceChaining.pdb
 F:\C#\InheritanceChaining\InheritanceChaining\obj\Debug\InheritanceChaining.exe
 F:\C#\InheritanceChaining\InheritanceChaining\obj\Debug\InheritanceChaining.pdb
+F:\C#\InheritanceChaining\InheritanceChaining\obj\Debug\InheritanceChaining.csprojAssemblyReference.cache
